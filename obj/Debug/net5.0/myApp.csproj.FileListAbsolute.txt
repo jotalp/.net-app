@@ -1,0 +1,16 @@
+C:\Users\jotal\myApp\bin\Debug\net5.0\myApp.exe
+C:\Users\jotal\myApp\bin\Debug\net5.0\myApp.deps.json
+C:\Users\jotal\myApp\bin\Debug\net5.0\myApp.runtimeconfig.json
+C:\Users\jotal\myApp\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+C:\Users\jotal\myApp\bin\Debug\net5.0\myApp.dll
+C:\Users\jotal\myApp\bin\Debug\net5.0\ref\myApp.dll
+C:\Users\jotal\myApp\bin\Debug\net5.0\myApp.pdb
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.csproj.AssemblyReference.cache
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.dll
+C:\Users\jotal\myApp\obj\Debug\net5.0\ref\myApp.dll
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.pdb
+C:\Users\jotal\myApp\obj\Debug\net5.0\myApp.genruntimeconfig.cache
